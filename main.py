@@ -32,7 +32,7 @@ CLOUD = pygame.image.load(os.path.join("images/Other", "Cloud.png"))
 
 BG = pygame.image.load(os.path.join("images/Other", "Track.png"))
 
-START = pygame.image.load(os.path.join("images/Other", "RunnerStart.png"))
+START = pygame.image.load(os.path.join("images/Runner", "RunnerStart.png"))
 
 GAME_OVER = pygame.image.load(os.path.join("images/Other", "GameOver.png"))
 

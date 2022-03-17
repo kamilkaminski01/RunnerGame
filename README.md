@@ -27,7 +27,7 @@ W menu po zderzeniu się z przeszkodą można zobaczyć ile się zdobyło punkt�
 Funkcje, innowacyjności w grze:
 - Skok oraz kucanie,
 - Kolizja z przeszkodami,
-- Postać sprawia wrażenie anomowanej w biegu oraz kucaniu,
+- Postać sprawia wrażenie animowanej w biegu oraz kucaniu,
 - Ptaki sprawiają wrażenie animowanych,
 - Wszystkie grafiki zawarte w grze zostały wykonane oraz zmodyfikowane przeze mnie na potrzebę gry.
 
